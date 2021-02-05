@@ -1,0 +1,20 @@
+C:\Users\chike\source\repos\input_WINDOW\input_WINDOW\bin\Debug\input_WINDOW.exe.config
+C:\Users\chike\source\repos\input_WINDOW\input_WINDOW\bin\Debug\input_WINDOW.exe
+C:\Users\chike\source\repos\input_WINDOW\input_WINDOW\bin\Debug\input_WINDOW.pdb
+C:\Users\chike\source\repos\input_WINDOW\input_WINDOW\obj\Debug\input_WINDOW.csprojAssemblyReference.cache
+C:\Users\chike\source\repos\input_WINDOW\input_WINDOW\obj\Debug\input_WINDOW.Form1.resources
+C:\Users\chike\source\repos\input_WINDOW\input_WINDOW\obj\Debug\input_WINDOW.Properties.Resources.resources
+C:\Users\chike\source\repos\input_WINDOW\input_WINDOW\obj\Debug\input_WINDOW.csproj.GenerateResource.cache
+C:\Users\chike\source\repos\input_WINDOW\input_WINDOW\obj\Debug\input_WINDOW.csproj.CoreCompileInputs.cache
+C:\Users\chike\source\repos\input_WINDOW\input_WINDOW\obj\Debug\input_WINDOW.exe
+C:\Users\chike\source\repos\input_WINDOW\input_WINDOW\obj\Debug\input_WINDOW.pdb
+C:\Users\chike\OneDrive\Рабочий стол\input_WINDOW\input_WINDOW\bin\Debug\input_WINDOW.exe.config
+C:\Users\chike\OneDrive\Рабочий стол\input_WINDOW\input_WINDOW\bin\Debug\input_WINDOW.exe
+C:\Users\chike\OneDrive\Рабочий стол\input_WINDOW\input_WINDOW\bin\Debug\input_WINDOW.pdb
+C:\Users\chike\OneDrive\Рабочий стол\input_WINDOW\input_WINDOW\obj\Debug\input_WINDOW.csprojAssemblyReference.cache
+C:\Users\chike\OneDrive\Рабочий стол\input_WINDOW\input_WINDOW\obj\Debug\input_WINDOW.Form1.resources
+C:\Users\chike\OneDrive\Рабочий стол\input_WINDOW\input_WINDOW\obj\Debug\input_WINDOW.Properties.Resources.resources
+C:\Users\chike\OneDrive\Рабочий стол\input_WINDOW\input_WINDOW\obj\Debug\input_WINDOW.csproj.GenerateResource.cache
+C:\Users\chike\OneDrive\Рабочий стол\input_WINDOW\input_WINDOW\obj\Debug\input_WINDOW.csproj.CoreCompileInputs.cache
+C:\Users\chike\OneDrive\Рабочий стол\input_WINDOW\input_WINDOW\obj\Debug\input_WINDOW.exe
+C:\Users\chike\OneDrive\Рабочий стол\input_WINDOW\input_WINDOW\obj\Debug\input_WINDOW.pdb
